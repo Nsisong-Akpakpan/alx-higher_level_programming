@@ -1,0 +1,1 @@
+#This is my ALX 0x12. JavaScript - Warm up project
